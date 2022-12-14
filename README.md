@@ -7,6 +7,6 @@
 - 🔭 Могу: HTML, CSS
 - 🌱 Умею: Java Script
 - 💬 Практикую: Одностраничные сайты
-- 📫 Связаться со мной можно по почте или мессенджерам
+- 📫 Связаться со мной можно по почте: kinder.bubnova@yandex.ru или в [telegram](https://t.me/inallsenses)
 
 
